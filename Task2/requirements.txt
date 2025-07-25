@@ -1,0 +1,10 @@
+numpy
+pandas
+SimpleITK
+monai
+tqdm
+mmcls
+pyradiomics==3.0.1
+pycaret==3.0.0.rc3
+scikit-learn==1.0.2
+

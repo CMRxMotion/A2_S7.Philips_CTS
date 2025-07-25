@@ -1,0 +1,16 @@
+
+# Task2 docker installation record
+newgrp docker
+
+docker compose build
+docker rmi ID
+nvidia-docker run -it --gpus all ctsphi/task2:latest /bin/bash
+
+路径
+/home/philips/disk1/CMR/docker/task2
+把2d模型移到task2文件夹
+把nnUNet代码移到task2文件夹
+修改nnUNet代码中的path为对应路径
+
+
+

@@ -1,0 +1,3 @@
+*.model
+training_log*
+__pycache__
